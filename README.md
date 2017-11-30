@@ -1,14 +1,10 @@
 # SIAH - Solution, Inovation, Arduino in Home
 
-Projeto de TCC na ETEC de Bebedouro sobre Automação Residêncial.
+Projeto de TCC desenvolvido na ETEC de Bebedouro sobre Automação Residêncial.
 
 ## Getting Started
 
 Vídeo de demonstração: https://youtu.be/Ezt9RoWiaEo
-
-
-## Bugs and Issues
-
 
 ## Creator
 
