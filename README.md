@@ -8,7 +8,7 @@ Vídeo de demonstração: https://youtu.be/Ezt9RoWiaEo
 
 ## Creator
 
-João Inácio Neto, Reone Alves Quimelo, Ricardo Martins.
+João Inácio Neto.
 
 * www.facebook.com/birobirobiro
 
