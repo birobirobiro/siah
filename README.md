@@ -1,6 +1,6 @@
-# SIAH - Solution, Inovation, Arduino in Home
+# :house: SIAH - Solution, Inovation, Arduino in Home :robot:
 
-Projeto de TCC desenvolvido na ETEC de Bebedouro sobre Automação Residêncial.
+*Projeto de TCC desenvolvido na ETEC de Bebedouro sobre Automação Residêncial.*
 
 ## Getting Started
 
@@ -10,8 +10,4 @@ Vídeo de demonstração: https://youtu.be/Ezt9RoWiaEo
 
 João Inácio Neto.
 
-* www.facebook.com/birobirobiro
-
-## Copyright and License
-
-Copyright 2017
+* [Facebook](www.facebook.com/birobirobiro)
